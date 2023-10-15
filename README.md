@@ -1,2 +1,2 @@
 # HR_analytics_dashboard
-!{HR_analytics_dashboard.jpg}
+![DashBoard]{HR_analytics_dashboard.jpg}
